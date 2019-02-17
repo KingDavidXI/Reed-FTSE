@@ -1,6 +1,3 @@
-#
-# Task:
-
 # Biggest Employers by region and by sector:
 
 Potential Data Sources:
