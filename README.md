@@ -1,4 +1,4 @@
-# Biggest Employers by region and by sector:
+# Biggest Employers by Region and by Sector:
 
 Potential Data Sources:
 
