@@ -14,7 +14,7 @@ Potential Data Sources:
 | --- | --- | --- | --- | --- |
 | Indeed | API | http://opensource.indeedeng.io/api-documentation/docs/job-search/ | https://github.com/indeedlabs/indeed-python | Waiting for API access |
 | LinkedIn | API | https://developer.linkedin.com/docs/guide/v2/jobs | https://github.com/ozgur/python-linkedin | No longer publicly available |
-| Reed | API | https://www.reed.co.uk/developers/Jobseeker |   | Code working, waiting for API Cooldown |
+| Reed | API | https://www.reed.co.uk/developers/Jobseeker |   | Code working |
 | Career Builder | API | https://developer.careerbuilder.com/docs/v3jobid |   | No longer publicly available |
 | Monster |   | http://partner.monster.com/job-search |   | No longer publicly available |
 | Gradcracker | Web Scrape |   |   |   |
