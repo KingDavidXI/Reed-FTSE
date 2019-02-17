@@ -28,4 +28,10 @@ Potential Data Sources:
 - A Reed API Key - [Link](https://www.reed.co.uk/developers/Jobseeker)
 - JupyterLab Plotly support - [Link](https://github.com/plotly/plotly.py#jupyterlab-support-python-35)
 - JupyterLab Table of Contents - [Link](https://github.com/ian-r-rose/jupyterlab-toc)
+- Extract Zips
 
+# FTSE Data Retrieval
+
+## Requisites:
+
+- Extract Zip
